@@ -17,7 +17,6 @@ public:
                 set_x--;
             }
         }
-        
         return x;
     }
     int countBits(int num){
